@@ -1,0 +1,72 @@
+body{
+    background-color: white;
+    color: black;
+}
+/* Maint*/
+.border{
+    border: orchid;
+    border-width: 5px;
+}
+.maint{
+    background-color: orange;
+    color: black;
+}
+.henny{
+    font-family: 'Henny Penny', cursive;
+}
+.hsz{ 
+    font-size: 4rem;
+    margin: 10px 0px 8px 0px;
+}
+.h2sz{ 
+    font-size: 2.75rem;
+    margin: 8px 0px 0px 0px;
+}
+.constdg{
+    height: 100px;
+    width: 50px;
+}
+/* NAV */
+
+.nav-link{
+    font-size: 1.5rem;
+}
+
+/* IND Banner */
+.red{
+    color: red;
+}
+
+.txtcnt {
+    text-align: center;
+}
+
+
+
+/* IND Jumbotron */
+.picframe {
+    
+}
+.fpics {
+    height: 50%;
+    width: 75%;
+    padding-left: 30%;
+}
+.tsty{
+    text-align: center;
+    font-size: 1.7rem;
+}
+
+.tiles{
+    text-align: center;
+    font-size: 1.5rem;
+
+    background-color: white;
+    color: black;
+}
+
+
+.enmban{
+    width: 88%;
+    height: 200px;
+}
