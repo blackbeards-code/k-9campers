@@ -45,12 +45,13 @@ body{
 
 /* IND Jumbotron */
 .picframe {
-    
+    margin-left: 25%;
+    float: none;
 }
 .fpics {
-    height: 50%;
-    width: 75%;
-    padding-left: 30%;
+    height: 25%;
+    width: 50%;
+    
 }
 .tsty{
     text-align: center;
