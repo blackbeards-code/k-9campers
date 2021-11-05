@@ -1,7 +1,7 @@
-#README for KAnineKampers
+#README for k-9 Campers
 
 ##Purpose 
-This is a website for the kaninekampers Dog Boarding Kennels
+This is a website for the k-9 Campers Dog Boarding Kennels
 
 ##Auths
 Terry Foster
