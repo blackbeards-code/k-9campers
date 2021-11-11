@@ -19,7 +19,7 @@ body{
     margin: 10px 0px 8px 0px;
 }
 .h2sz{ 
-    font-size: 2.75rem;
+    font-size: 2rem;
     margin: 8px 0px 0px 0px;
 }
 .constdg{
@@ -45,28 +45,46 @@ body{
 
 /* IND Jumbotron */
 .picframe {
-    
+    margin-left: 19%;
+
 }
 .fpics {
-    height: 50%;
-    width: 75%;
-    padding-left: 30%;
+    height: 25rem;
+    width: 50rem;
+    
 }
 .tsty{
     text-align: center;
     font-size: 1.7rem;
 }
-
+/* Tile rates */
 .tiles{
     text-align: center;
-    font-size: 1.5rem;
-
+    font-size: 1rem;
+    margin: 0 .5rem 0 .5rem;
     background-color: white;
     color: black;
 }
 
+/* Reviews */
 
-.enmban{
-    width: 88%;
-    height: 200px;
+.rv-img{
+    display: inline-block;
+    height: 10rem;
+    width: 11rem;
+    border-style: solid;
+    border-color: black;
+    border-radius: 100%;
+}
+.rv-main{
+    padding-left: 2%;
+    display: inline-block;
+    font-family: 'Henny Penny', cursive;
+    font-size: 3rem;
+}
+
+.rv-sig{
+    font-family: 'Henny Penny', cursive;
+    font-size: 2rem;
+    text-align: center;
 }
